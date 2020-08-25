@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi, I'm Angel! 👋🏾 👨🏾‍💻
+
+I'm a software engineer from Spain. Currently finishing my PhD in Neuroscience at [Grupo de Neurocomputación Biológica](https://github.com/GNB-UAM), Universidad Autónoma de Madrid.
+
+I also develop small video games as a hobby. Check [my profile at itch.io](https://alfxogo.itch.io/) or [my blog](http://terraludus.blogspot.com/) (in spanish).
 
 <!--
 **angellareo/angellareo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
