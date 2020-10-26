@@ -4,7 +4,7 @@
 
 I'm a software engineer from Spain. Currently finishing my PhD in Neuroscience at [Grupo de Neurocomputación Biológica](https://github.com/GNB-UAM), Universidad Autónoma de Madrid. 
 
-I am currently interested in:
+My interests are:
 - Computational modelling of dynamical systems (mainly in neuroscience)
 - Real-time hardware and software
 - Temporal coding in the nervous system (and information theory approaches)
