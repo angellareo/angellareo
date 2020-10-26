@@ -13,7 +13,7 @@ I am currently interested in:
 
 <img name="BtM Board" align="left" width=200px src="https://drive.google.com/uc?export=view&id=1IWab3mXert8KZEpHFkrf80qTv6lWilCc">
 
-I have designed an Arduino-based open-source datalogger for measuring conductance of up to 8 measures (succesfully applied to estimate water content in moss and lichens).
+I have designed an [Arduino-based open-source datalogger](https://github.com/united-ecology/btmboard) for measuring conductance of up to 8 measures (succesfully applied to estimate water content in moss and lichens).
 
 If you are interested, you can check the related video and publication: [BtM, a Low-cost Open-source Datalogger to Estimate the Water Content of Nonvascular Cryptogams](https://www.jove.com/video/58700/btm-low-cost-open-source-datalogger-to-estimate-water-content).
 
