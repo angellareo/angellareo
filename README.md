@@ -2,7 +2,7 @@
 
 # Hi, I'm Angel! 👋🏾 👨🏾‍💻
 
-I'm from Spain. I have a PhD in Computer Engineering.
+I'm from Spain. I have a PhD in Computer Engineering and Telecommunications.
 
 My current interests are:
 - Computational modelling of dynamical systems. [Check this C++ library!] (https://github.com/angellareo/neun)
