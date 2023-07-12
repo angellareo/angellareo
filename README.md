@@ -5,7 +5,7 @@
 I'm from Spain. I have a PhD in Computer Engineering and Telecommunications.
 
 My current interests are:
-- Computational modelling of dynamical systems. [Check this C++ library!] (https://github.com/angellareo/neun)
+- Computational modelling of dynamical systems. [Check this C++ library!](https://github.com/angellareo/neun)
 - FLOSS hardware and software applied in sustainability studies. You can check [this Arduino-based low-consumption datalogger](https://github.com/united-ecology/btmboard).
 
 🔭 My previous research projects were focused on:
