@@ -1,6 +1,6 @@
-<img name="GNB group photo" align="right" src="https://drive.google.com/uc?export=view&id=1r2tCAdraPLHXDc0zN2ArPMEO5O5pgBC7">
-
 # Hi, I'm Angel! 👋🏾 👨🏾‍💻
+
+<img name="GNB group photo" align="right" src="https://drive.google.com/uc?export=view&id=1r2tCAdraPLHXDc0zN2ArPMEO5O5pgBC7">
 
 I'm from Spain. I have a PhD in Computer Engineering and Telecommunications.
 
