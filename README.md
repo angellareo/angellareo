@@ -14,7 +14,7 @@ My current interests are:
 
 💬 Contact me if you have any comment, suggestion or doubt about my work.
 
-📫 You can reach me at: angel.lareo@gmail.com
+📫 You can reach me at: angel.lareo@uam.es
 
 ## Other interests
 
